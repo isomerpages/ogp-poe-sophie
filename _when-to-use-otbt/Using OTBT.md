@@ -4,7 +4,7 @@ permalink: /when-to-use-otbt/
 variant: tiptap
 description: When to use Off The Beaten Track
 ---
-<h5><strong>Off The Beaten Track (By Isomer) best caters to tourists (local and foreign) who are interested in something different:</strong></h5>
+<h5><strong>Off The Beaten Track best caters to tourists (local and foreign) who are interested in something different:</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
 <p>Foreign Tourists who have visited the country multiple times.</p>
