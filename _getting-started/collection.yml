@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - FAQSS/.keep
-      - FAQSS/FAQS.md
+      - FAQSS/General.md
       - FAQSS/terms-of-use.md
       - FAQSS/privacy.md
