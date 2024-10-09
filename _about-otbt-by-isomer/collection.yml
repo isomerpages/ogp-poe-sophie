@@ -2,4 +2,5 @@ collections:
   about-otbt-by-isomer:
     output: true
     order:
+      - What Is OTBT/OTBT.md
       - What Is OTBT/.keep
