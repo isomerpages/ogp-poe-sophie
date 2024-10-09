@@ -1,5 +1,5 @@
 collections:
-  about-otbt-by-isomer:
+  about-otbt:
     output: true
     order:
       - What Is OTBT/.keep
