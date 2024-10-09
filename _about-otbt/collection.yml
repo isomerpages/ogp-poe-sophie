@@ -2,4 +2,5 @@ collections:
   about-otbt:
     output: true
     order:
+      - Why use OTBT/.keep
       - What Is OTBT/.keep
