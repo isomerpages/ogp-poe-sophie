@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - Using OTBT.md
-      - example-subfolder/.keep
-      - example-subfolder/subfolder-page.md
+      - Overview/.keep
+      - Overview/subfolder-page.md
