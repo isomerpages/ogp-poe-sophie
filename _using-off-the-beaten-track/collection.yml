@@ -1,5 +1,5 @@
 collections:
-  example-folder:
+  using-off-the-beaten-track:
     output: true
     order:
       - folder-page.md
