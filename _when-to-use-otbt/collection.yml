@@ -2,4 +2,5 @@ collections:
   when-to-use-otbt:
     output: true
     order:
+      - OTBT Itineraries.md
       - Users of OTBT.md
