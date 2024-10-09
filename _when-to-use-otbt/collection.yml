@@ -2,6 +2,6 @@ collections:
   when-to-use-otbt:
     output: true
     order:
-      - Using OTBT.md
+      - Users of OTBT.md
       - Overview/.keep
       - Overview/Alternative Activities.md
