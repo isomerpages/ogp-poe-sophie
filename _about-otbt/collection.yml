@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - What Is OTBT/.keep
-      - What Is OTBT/OTBT In A Nutshell.md
       - What Is OTBT/A Different Kind Of Tourism.md
