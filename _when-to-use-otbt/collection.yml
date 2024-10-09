@@ -1,5 +1,5 @@
 collections:
-  using-off-the-beaten-track:
+  when-to-use-otbt:
     output: true
     order:
       - Using OTBT.md
