@@ -24,7 +24,7 @@ sections:
           url: https://www.hawparvilla.sg/fat-event/haw-ror-villa-3/?sd=1729278000&ed=1729983600
       variant: center
   - infopic:
-      title: Different Expectations
+      title: Great (Or Little) Expectations
       subtitle: Choices, choices
       id: infopic
       description: Can't decide what else you can do in Singapore?
