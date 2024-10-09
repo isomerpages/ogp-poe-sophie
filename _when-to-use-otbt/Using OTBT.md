@@ -28,13 +28,6 @@ lesser known.</p>
 Villa's Hell Museum Tour in the Seventh Month (Ghost Month) and October.</p>
 <p></p>
 </li>
-<li>
-<p><strong>Campaign websites:</strong> To promote specific initiatives or
-programs. Examples include: <a href="https://www.hawparvilla.sg/fat-event/haw-ror-villa-3/?sd=1729278000&amp;ed=1729983600" rel="noopener noreferrer nofollow" target="_blank">Haw Ror Villa 3</a>,
-<a href="https://www.esplanade.com/whats-on/festivals-and-series/festivals/2024/baybeats" rel="noopener noreferrer nofollow" target="_blank">Bay Beats</a>, <a href="https://www.singaporewritersfestival.com/" rel="noopener noreferrer nofollow" target="_blank">Singapore Writers Festival</a>
-</p>
-<p></p>
-</li>
 </ul>
 <h5><strong>Off The Beaten Track (By Isomer) is not ideal for everyone:</strong></h5>
 <ul data-tight="true" class="tight">
