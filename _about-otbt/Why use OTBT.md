@@ -23,7 +23,7 @@ our site.</p>
 <p>Choice fatigue is definitely a problem but now that we've made the pool
 a little smaller but surer you can choose from indoor lightweight activities
 to a robust day out in the sun or at sea- all customised to your wants.</p>
-<h3>3. Easy-to-use website and navigation </h3>
+<h3>3. Easy-to-use website and navigation</h3>
 <p>Off The Beaten Track is made with sites designed by Isomer which are In
 line with <a href="https://designsystem.tech.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Government Design System (SGDS)</a>
 </p>
