@@ -3,5 +3,3 @@ collections:
     output: true
     order:
       - Users of OTBT.md
-      - Overview/.keep
-      - Overview/Alternative Activities.md
