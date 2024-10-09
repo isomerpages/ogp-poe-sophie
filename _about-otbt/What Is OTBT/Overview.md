@@ -13,7 +13,7 @@ can offer so much more.</p>
 <p></p>
 <h4>Mission</h4>
 <p>Our local non-profit co-operative is in pursuit of a different kind of
-tourism, we hope to <strong> effectively</strong> offer both citizens and
+tourism, we hope to <strong>effectively</strong> offer both citizens and
 foreigners new activities to participate in whilst also enabling them to <strong>easily access</strong> the
 information they were looking for and also <strong>navigate safely</strong> around
 our island.</p>
