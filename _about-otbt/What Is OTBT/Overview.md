@@ -20,7 +20,8 @@ our island.</p>
 <p></p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Off The Beaten Track template</p>
+<p><a href="https://www.isomer.gov.sg/off-the-beaten-track-template/" rel="noopener nofollow" target="_blank">Off The Beaten Track template</a>
+</p>
 </li>
 <li>
 <p>Off The Beaten Track's infrastructure</p>
