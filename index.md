@@ -29,8 +29,8 @@ sections:
       id: infopic
       description: Bored of going round the same places in Singapore and wanting to
         try or do something different?
-      button: read more
-      url: /ofbt/overview
-      image: /images/infopic_black_cat.png
-      alt: A black cat at a stairwell
+      button: Let's go!
+      url: https://www.isomer.gov.sg/what-is-otbt/off-the-beaten-track-itineraries/
+      image: /images/mbs.jpg
+      alt: marina bay sands at night
 ---
