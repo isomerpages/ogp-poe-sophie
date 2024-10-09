@@ -4,28 +4,29 @@ title: Isomer
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: Welcome, explorers!
 sections:
   - hero:
-      title: Welcome to Isomer
-      subtitle: An easier, more cost efficent solution to your website troubles.
-      background: /images/hero-banner.png
-      button: Contact Us
-      url: /contact-us/
+      title: Off The Beaten Track In Singapore
+      subtitle: A (slightly) different side to exploring the Lion City
+      background: /images/mbs_resized.png
+      button: Reach out to us!
+      url: offthebeatentrack.sg
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
+        - title: Morning
+          description: When you open your eyes...
           url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
+        - title: Noon
+          description: Time for second breakfast?
           url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
+        - title: Night
+          description: A tipple before bedtime!
           url: /privacy/
+      variant: center
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
+      title: Great Expectations
+      subtitle: a casual read before starting
+      description: Wondering what else you might need before starting?
+      button: all your answers
       url: /faq/
 ---
