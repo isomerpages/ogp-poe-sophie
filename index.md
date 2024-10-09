@@ -7,7 +7,7 @@ permalink: /
 notification: Welcome, explorers!
 sections:
   - hero:
-      title: Off The Beaten Track In Singapore
+      title: Off The Beaten Track In Singapore (with Isomer)
       subtitle: A (slightly) different side to exploring the Lion City
       background: /images/hero_image_mbs.png
       button: Reach out to us!
