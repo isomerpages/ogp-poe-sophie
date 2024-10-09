@@ -27,8 +27,8 @@ sections:
       title: Great Little Expectations
       subtitle: Trying something different?
       id: infopic
-      description: Been to Singapore many times before and finding yourself bored and
-        going round in the same circles?
+      description: Been to Singapore many a time before and finding yourself bored and
+        going round in the same circles and wanting to try something new?
       button: right this way
       url: https://www.journeys.com.sg/tosw/
       image: /images/infopic_black_cat.jpg
