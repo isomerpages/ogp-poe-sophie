@@ -23,10 +23,14 @@ sections:
           description: A tipple before bedtime!
           url: https://atlasbar.sg/
       variant: center
-  - infobar:
-      title: Great Expectations
-      subtitle: Beginning
-      description: Wondering what else you might need before starting?
-      button: all your answers
-      url: https://www.offthebeatentrack.sg/getting-started/faqs/general/
+  - infopic:
+      title: Great Little Expectations
+      subtitle: Trying something different?
+      id: infopic
+      description: Been to Singapore many times before and finding yourself bored and
+        going round in the same circles?
+      button: right this way
+      url: https://www.journeys.com.sg/tosw/
+      image: /images/infopic_black_cat.jpg
+      alt: A black cat at a stairwell
 ---
