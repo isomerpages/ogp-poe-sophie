@@ -2,5 +2,5 @@ collections:
   about-otbt:
     output: true
     order:
-      - Why use OTBT.md
       - What Is OTBT/.keep
+      - Why use OTBT.md
