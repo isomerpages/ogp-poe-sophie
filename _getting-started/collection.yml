@@ -4,5 +4,5 @@ collections:
     order:
       - FAQSS/.keep
       - FAQSS/General.md
-      - FAQSS/terms-of-use.md
+      - FAQSS/Terms of Use.md
       - FAQSS/privacy.md
