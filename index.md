@@ -24,13 +24,13 @@ sections:
           url: https://atlasbar.sg/
       variant: center
   - infopic:
-      title: Great (Little) Expectations
+      title: Some Expectations
       subtitle: Choices, choices
       id: infopic
       description: Bored of going round the same places in Singapore and wanting to
         try or do something different?
       button: read more
-      url: https://www.journeys.com.sg/tosw/
+      url: /ofbt/overview
       image: /images/infopic_black_cat.png
       alt: A black cat at a stairwell
 ---
