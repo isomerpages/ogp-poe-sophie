@@ -8,6 +8,8 @@ links:
     url: getting started
     sublinks:
       - title: FAQS
+        url: https://www.isomer.gov.sg/getting-started/faq/
+      - title: New submenu
         url: /permalink
   - title: Contact Us
     url: /contact-us/
