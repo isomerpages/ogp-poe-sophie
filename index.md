@@ -24,7 +24,7 @@ sections:
           url: https://www.hawparvilla.sg/fat-event/haw-ror-villa-3/?sd=1729278000&ed=1729983600
       variant: center
   - infopic:
-      title: Some Expectations
+      title: Different Expectations
       subtitle: Choices, choices
       id: infopic
       description: Bored of going round the same places in Singapore and wanting to
