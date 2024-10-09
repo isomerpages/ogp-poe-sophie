@@ -2,7 +2,7 @@ collections:
   getting-started:
     output: true
     order:
-      - FAQSS/.keep
-      - FAQSS/General.md
-      - FAQSS/Terms of Use.md
-      - FAQSS/Privacy Statement.md
+      - FAQS/.keep
+      - FAQS/General.md
+      - FAQS/Terms of Use.md
+      - FAQS/Privacy Statement.md
