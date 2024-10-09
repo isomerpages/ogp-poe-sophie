@@ -7,21 +7,21 @@ permalink: /
 notification: Welcome, explorers!
 sections:
   - hero:
-      title: Off The Beaten Track In Singapore (with Isomer)
+      title: Off The Beaten Track In Singapore
       subtitle: A (slightly) different side to exploring the Lion City
-      background: /images/hero_image_mbs.png
+      background: /images/hero-banner.png
       button: Reach out to us!
       url: offthebeatentrack.sg
       key_highlights:
         - title: Morning
-          description: When you open your eyes...
-          url: https://www.hawparvilla.sg/
+          description: Back to school?
+          url: https://www.newbahru.com/
         - title: Noon
-          description: Time for second breakfast?
-          url: https://www.bismillahbiryani.com/
+          description: Time for a second breakfast?
+          url: https://lkcnhm.nus.edu.sg/
         - title: Night
-          description: A tipple before bedtime!
-          url: https://atlasbar.sg/
+          description: Stories before bedtime
+          url: https://www.hawparvilla.sg/fat-event/haw-ror-villa-3/?sd=1729278000&ed=1729983600
       variant: center
   - infopic:
       title: Some Expectations
