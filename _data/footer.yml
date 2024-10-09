@@ -1,6 +1,6 @@
-contact_us: /contact-us/
+contact_us: https://www.isomer.gov.sg/contact-us/
 show_reach: true
-faq: /faq/
+faq: https://www.isomer.gov.sg/getting-started/faqs/general/
 social_media:
   facebook: https://www.facebook.com/opengovsg
   twitter: https://www.twitter.com/YourTwitter
@@ -8,3 +8,4 @@ social_media:
   instagram: https://www.instagram.com/opengovsg/
   linkedin: https://www.linkedin.com/company/opengovsg
   tiktok: https://www.tiktok.com/@opengovsg
+feedback: https://www.go.gov.sg/isomer-contact/
