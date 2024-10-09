@@ -27,8 +27,7 @@ sections:
       title: Different Expectations
       subtitle: Choices, choices
       id: infopic
-      description: Bored of going round the same places in Singapore and wanting to
-        try or do something different?
+      description: Can't decide what else you can do in Singapore?
       button: Let's go!
       url: https://www.isomer.gov.sg/what-is-otbt/off-the-beaten-track-itineraries/
       image: /images/mbs.jpg
