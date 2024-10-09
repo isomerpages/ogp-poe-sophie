@@ -25,8 +25,8 @@ sections:
       variant: center
   - infobar:
       title: Great Expectations
-      subtitle: a casual read before starting
+      subtitle: Beginning
       description: Wondering what else you might need before starting?
       button: all your answers
-      url: /faq/
+      url: https://www.offthebeatentrack.sg/getting-started/faqs/general/
 ---
