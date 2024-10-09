@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: What Is OTBT
 ---
-<h3> In Pursuit of A Different Kind of Tourism</h3>
+<h3>In Pursuit of A Different Kind of Tourism</h3>
 <p>Amidst new social media trends, crowd control problems and environmental
 challenges, <strong>Off The Beaten Track</strong> envisions a different option
 and nature of tourism that Singapore wishes to pursue as quality tourism.</p>
