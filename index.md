@@ -30,6 +30,6 @@ sections:
       description: Can't decide what else you can do in Singapore?
       button: Let's go!
       url: https://www.isomer.gov.sg/what-is-otbt/off-the-beaten-track-itineraries/
-      image: /images/mbs.jpg
+      image: /images/infopic-mbs.png
       alt: marina bay sands at night
 ---
