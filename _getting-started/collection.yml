@@ -2,6 +2,6 @@ collections:
   getting-started:
     output: true
     order:
-      - faq.md
+      - FAQS.md
       - privacy.md
       - terms-of-use.md
