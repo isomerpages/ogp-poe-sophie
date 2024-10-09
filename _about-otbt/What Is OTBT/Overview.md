@@ -24,7 +24,7 @@ our island.</p>
 </p>
 </li>
 <li>
-<p><a href="https://www.isomer.gov.sg/what-is-otbt/off-the-beaten-track-s-infrastructure/" rel="noopener nofollow" target="_blank">Off The Beaten Track's infrastructure</a>
+<p><a href="https://www.isomer.gov.sg/what-is-otbt/off-the-beaten-track-itineraries/" rel="noopener nofollow" target="_blank">Off The Beaten Track's itineraries</a>
 </p>
 <p></p>
 <p></p>
