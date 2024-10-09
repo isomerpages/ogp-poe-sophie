@@ -64,8 +64,8 @@ any products, goods or services.</p>
 </li>
 </ul>
 <p></p>
-<p>To learn more about popular tourist destinations in Singapore, <a href="https://www.visitsingapore.com/" rel="noopener noreferrer nofollow" target="_blank">visit this page</a>.
-Have more questions? Ask us at <a href="mailto:%20support@isomer.gov.sg" rel="noopener noreferrer nofollow" target="_blank">support@isomer.gov.sg</a>
+<p>To learn more about popular tourist destinations in Singapore, <a href="https://www.visitsingapore.com/" rel="noopener noreferrer nofollow" target="_blank">visit this page</a>.</p>
+<p>Have more questions? Ask us at <a href="mailto:%20support@isomer.gov.sg" rel="noopener noreferrer nofollow" target="_blank">support@isomer.gov.sg</a>
 </p>
 <p></p>
 <p></p>
