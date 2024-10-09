@@ -5,11 +5,6 @@ links:
   - title: When To Use Otbt
     collection: when-to-use-otbt
   - title: Getting Started
-    url: getting started
-    sublinks:
-      - title: FAQS
-        url: https://www.isomer.gov.sg/getting-started/faq/
-      - title: New submenu
-        url: /permalink
+    collection: getting-started
   - title: Contact Us
     url: /contact-us/
