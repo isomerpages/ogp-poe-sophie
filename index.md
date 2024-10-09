@@ -31,6 +31,6 @@ sections:
         try or do something different?
       button: read more
       url: https://www.journeys.com.sg/tosw/
-      image: /images/infopic_black_cat.jpg
+      image: /images/infopic_black_cat.png
       alt: A black cat at a stairwell
 ---
