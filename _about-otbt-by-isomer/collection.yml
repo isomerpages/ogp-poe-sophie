@@ -2,5 +2,6 @@ collections:
   about-otbt-by-isomer:
     output: true
     order:
+      - A Different Kind Of Tourism.md
       - What Is OTBT/OTBT.md
       - What Is OTBT/.keep
