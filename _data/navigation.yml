@@ -1,7 +1,7 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: About OTBT by Isomer
-    url: /example-page/
+  - title: About Off The Beaten Track
+    collection: about-otbt-by-isomer
   - title: Using Off The Beaten Track
     collection: using-off-the-beaten-track
   - title: Contact Us
