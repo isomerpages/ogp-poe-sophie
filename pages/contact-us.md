@@ -13,7 +13,7 @@ locations:
         time: 10am - 4pm
         description: Closed on Public Holidays
     maps_link: https://www.google.com/maps?q=36+Robinson+Rd+Singapore+068877+
-    title: Main Office (Open Government Products)
+    title: Isomer (Open Government Products)
 contacts:
   - content:
       - phone: +65 6123 4567
