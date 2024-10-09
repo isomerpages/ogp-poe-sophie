@@ -20,10 +20,5 @@ contacts:
       - email: support@isomer.gov.sg
       - other: "<b>Note: Enquires will take 3-5 working days to respond</b>"
     title: Isomer Support
-  - content:
-      - phone: ""
-      - email: ""
-      - other: ""
-    title: Interested in a role with us?
 feedback: https://www.go.gov.sg/isomer-contact/
 ---
