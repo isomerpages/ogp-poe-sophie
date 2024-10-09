@@ -2,6 +2,7 @@ collections:
   about-otbt:
     output: true
     order:
+      - What Is OTBT/Off The Beaten Track template.md
       - What Is OTBT/Overview.md
       - What Is OTBT/.keep
       - Why use OTBT.md
