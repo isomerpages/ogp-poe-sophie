@@ -23,7 +23,7 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: opengovernmentproducts.recruitee.com/
+      - other: https://opengovernmentproducts.recruitee.com/
     title: Interested in a role with us?
 feedback: https://www.go.gov.sg/isomer-contact/
 ---
