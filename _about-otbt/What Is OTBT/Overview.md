@@ -20,11 +20,12 @@ our island.</p>
 <p></p>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="https://www.isomer.gov.sg/off-the-beaten-track-template/" rel="noopener nofollow" target="_blank">Off The Beaten Track template</a>
+<p><a href="https://www.isomer.gov.sg/what-is-otbt/off-the-beaten-track-template/" rel="noopener nofollow" target="_blank">Off The Beaten Track template</a>
 </p>
 </li>
 <li>
-<p>Off The Beaten Track's infrastructure</p>
+<p><a href="https://www.isomer.gov.sg/what-is-otbt/off-the-beaten-track-s-infrastructure/" rel="noopener nofollow" target="_blank">Off The Beaten Track's infrastructure</a>
+</p>
 <p></p>
 <p></p>
 </li>
