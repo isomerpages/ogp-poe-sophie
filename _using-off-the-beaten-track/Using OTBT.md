@@ -61,10 +61,11 @@ different famous spots and judge for yourself!</p>
 <p><strong>E-commerce Discount website:</strong> We are a non-profit collective
 and are not currently working with any third party providers on selling
 any products, goods or services.</p>
-</li>
-</ul>
 <p></p>
 <p>To learn more about popular tourist destinations in Singapore, <a href="https://www.visitsingapore.com/" rel="noopener noreferrer nofollow" target="_blank">visit this page</a>.</p>
+</li>
+</ul>
+<hr>
 <p>Have more questions? Ask us at <a href="mailto:%20support@isomer.gov.sg" rel="noopener noreferrer nofollow" target="_blank">support@isomer.gov.sg</a>
 </p>
 <p></p>
