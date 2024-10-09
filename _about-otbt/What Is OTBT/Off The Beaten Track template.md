@@ -14,8 +14,9 @@ components that users can mix and match in various ways. <strong>This keeps a co
 <p>With familiarisation, visitors can find and locate information on any
 activity or locale to visit quicker</p>
 </blockquote>
-<p>With a simple mix and match structure, tourists can also save time and
-frustration – improving their overall site experience.</p>
+<p>Inspired by our local "cai png" (mixed dishes rice) - Off The Beaten Track
+has a simple mix and match structure where tourists can also save time
+and frustration – improving their overall site experience.</p>
 <p>Additionally, this new template will also serve to be<strong> more accessible for site visitors with disabilities.</strong> For
 example, individuals who rely on screen readers or other assistive technologies
 to navigate websites benefit from our navigation structure and easier for
