@@ -17,12 +17,10 @@ Yes you can. Please send in details via our contact us form and we will get back
 
 While we understand some visitors may have specific wishes, The Off The Beaten Track team is small, agile and non-profit hence we currently do not offer bespoke itineraries for the individual.
 
-All our templates and components are implemented after doing thorough research to ensure that they meet good design standards, and are kept accessible.
-
 #### Why don’t you have an app?
 
 It's under consideration but since we're a non-profit service, we need to see how the uptake is for our regular site before we further invest! Please leave us some feedback or reviews if you like what we do!
 
 #### Do I have other options besides this site?
 
-Yes, we recommend the [Visit Singapore](https://www.visitsingapore.com/) website done by our Singapore Tourism board. It has a wide array of well-established tourist spots! 
+Yes, we recommend the [Visit Singapore](https://www.visitsingapore.com/) website done by our Singapore Tourism board. It has a wide array of well-established tourist spots!
