@@ -7,8 +7,8 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
+      title: Welcome to Isomer
+      subtitle: An easier, more cost efficent solution to your website troubles.
       background: /images/hero-banner.png
       button: Contact Us
       url: /contact-us/
