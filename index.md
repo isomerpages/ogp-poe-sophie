@@ -11,7 +11,7 @@ sections:
       subtitle: A (slightly) different way to exploring the Lion City
       background: /images/hero-banner.png
       button: Reach out to us!
-      url: offthebeatentrack.sg
+      url: https://www.isomer.gov.sg/contact-us/
       key_highlights:
         - title: Morning
           description: Back to school?
