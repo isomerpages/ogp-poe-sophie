@@ -2,19 +2,19 @@ title: Off the Beaten Track (with Isomer)
 url: https://www.isomer.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#6031b6"
-  secondary-color: "#4372d6"
+  primary-color: "#46211a"
+  secondary-color: "#a43820"
   media-colors:
     - title: media-color-one
-      color: "#49759a"
+      color: "#f1d3b2"
     - title: media-color-two
-      color: "#744d9f"
+      color: "#2a3132"
     - title: media-color-three
-      color: "#00838f"
+      color: "#763626"
     - title: media-color-four
-      color: "#00838f"
+      color: "#90afc5"
     - title: media-color-five
-      color: "#00838f"
+      color: "#d09683"
 description: An Isomer site of the Singapore Government
 permalink: none
 baseurl: ""
