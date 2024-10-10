@@ -7,6 +7,6 @@ links:
   - title: Getting Started
     collection: getting-started
   - title: Other Resources
-    url: other-resources
+    resource_room: true
   - title: Contact Us
     url: /contact-us/
