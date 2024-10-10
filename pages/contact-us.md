@@ -5,9 +5,9 @@ permalink: /contact-us/
 agency_name: Isomer
 locations:
   - address:
-      - 36 Robinson Rd
-      - Lazada Building
-      - Singapore 068877
+      - 123 ABC Road
+      - DEF Building
+      - Singapore 654321
     operating_hours:
       - days: Mon - Fri
         time: 10am - 4pm
@@ -17,7 +17,7 @@ locations:
 contacts:
   - content:
       - phone: +65 6123 4567
-      - email: support@isomer.gov.sg
+      - email: support@offthebeatentrack.sg
       - other: "<b>Note: Enquires will take 3-5 working days to respond</b>"
     title: Off The Beaten Track Support
 feedback: https://www.go.gov.sg/isomer-contact/
