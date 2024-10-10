@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Off the Beaten Track (with Isomer)
-description: An Isomer site of the Singapore Government
+title: Off the Beaten Track
+description: A site made with Isomer of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
 notification: Welcome, explorers!
