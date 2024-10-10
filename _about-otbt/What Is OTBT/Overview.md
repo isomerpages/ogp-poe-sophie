@@ -5,7 +5,7 @@ variant: tiptap
 description: overview of off the beaten track
 third_nav_title: What Is OTBT
 ---
-<h3><strong>Off The Beaten Track is a small local collective dedicated to finding new alternative tourist friendly spots and activities for both foreigners and locals alike.</strong></h3>
+<h3><strong>Off The Beaten Track is a small local collective dedicated to finding new alternative tourist-friendly spots and activities for both foreigners and locals alike.</strong></h3>
 <p></p>
 <h4>Vision</h4>
 <p>A Lion City that is more then just food and shopping, a destination that
