@@ -13,15 +13,9 @@ sections:
       button: Reach out to us!
       url: https://www.isomer.gov.sg/contact-us/
       key_highlights:
-        - title: Morning
-          description: Back to school?
-          url: https://www.newbahru.com/
-        - title: Noon
-          description: Time for a second breakfast?
-          url: https://lkcnhm.nus.edu.sg/
-        - title: Night
-          description: Stories before bedtime
-          url: https://www.hawparvilla.sg/fat-event/haw-ror-villa-3/?sd=1729278000&ed=1729983600
+        - title: Too much talk, bring me to the good stuff!
+          description: Check out an itinerary!
+          url: https://www.isomer.gov.sg/what-is-otbt/off-the-beaten-track-itineraries/
       variant: center
   - infopic:
       title: Great (Or Little) Expectations
