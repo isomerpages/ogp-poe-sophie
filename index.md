@@ -13,8 +13,8 @@ sections:
       button: Reach out to us!
       url: https://www.isomer.gov.sg/contact-us/
       key_highlights:
-        - title: Too much talk, bring me to the good stuff!
-          description: Check out an itinerary!
+        - title: Bring me to the good stuff!
+          description: Itinerary of the Month
           url: https://www.isomer.gov.sg/what-is-otbt/off-the-beaten-track-itineraries/
       variant: center
   - infopic:
