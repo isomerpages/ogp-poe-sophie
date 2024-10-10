@@ -8,7 +8,7 @@ notification: Welcome, explorers!
 sections:
   - hero:
       title: Off The Beaten Track In Singapore
-      subtitle: A (slightly) different side to exploring the Lion City
+      subtitle: A (slightly) different way to exploring the Lion City
       background: /images/hero-banner.png
       button: Reach out to us!
       url: offthebeatentrack.sg
