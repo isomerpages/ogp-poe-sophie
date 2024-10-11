@@ -26,9 +26,12 @@ lesser known.</p>
 <li>
 <p><strong>Seasonal Activities at Less-Popular Attractions:</strong> Haw Par
 Villa's Hell Museum Tour in the Seventh Month (Ghost Month) and October.</p>
-<p></p>
 </li>
 </ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="a woman with a yellow backpack and shoes standing at a crossroad" src="/images/Infographics/On_the_way_cuate.png">
+</div>
 <h5><strong>Off The Beaten Track is not ideal for everyone:</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
@@ -42,19 +45,19 @@ photos. (They already exist!)</p>
 <p></p>
 </li>
 </ul>
-<p><strong>Common misconceptions on what we do <em>not</em> do include:</strong>
+<p><strong>Common misconceptions on what we do include:</strong>
 </p>
 <ul>
 <li>
-<p><strong>Be the place to inform you where the best chicken rice place is in Singapore:</strong> These
+<p><strong>We are not the place to inform you where the best chicken rice place is in Singapore:</strong> These
 questions simply spark cultural wars- we encourage you to try out a few
 different famous spots from and judge for yourself!</p>
 <p></p>
 </li>
 <li>
-<p><strong>E-commerce Discount website:</strong> We are a non-profit collective
-and are not currently working with any third party providers on selling
-any products, goods or services.</p>
+<p><strong>We are not an e-commerce discount website:</strong> We are a non-profit
+collective and are not currently working with any third party providers
+on selling any products, goods or services.</p>
 <p></p>
 <p>To learn more about popular tourist destinations (along with some Michelin
 star or local food jaunts) in Singapore, <a href="https://www.visitsingapore.com/" rel="noopener noreferrer nofollow" target="_blank">visit this page</a>.</p>
