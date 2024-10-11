@@ -15,7 +15,7 @@ sections:
       key_highlights:
         - title: Bring me to the good stuff!
           description: Itinerary of the Month
-          url: https://www.isomer.gov.sg/contact-us
+          url: https://www.isomer.gov.sg/when-to-use-otbt/otbt-itineraries/
       variant: floating
   - infopic:
       title: Great (Or Little) Expectations
