@@ -23,18 +23,7 @@ tourism, we hope to <strong>effectively</strong> offer both citizens and
 foreigners new activities to participate in whilst also enabling them to <strong>easily access</strong> the
 information they were looking for and also <strong>navigate safely</strong> around
 our island.</p>
+<hr>
 <p></p>
-<ol data-tight="true" class="tight">
-<li>
-<p><a href="https://www.isomer.gov.sg/what-is-otbt/off-the-beaten-track-template/" rel="noopener nofollow" target="_blank">Off The Beaten Track template</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.isomer.gov.sg/what-is-otbt/off-the-beaten-track-itineraries/" rel="noopener nofollow" target="_blank">Off The Beaten Track's itineraries</a>
-</p>
-<p></p>
-<p></p>
-</li>
-</ol>
 <h2></h2>
 <p></p>
