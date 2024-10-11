@@ -12,7 +12,7 @@ components that users can mix and match in various ways. <strong>This keeps a co
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="a couple in yellow looking at a map puzzling where to go next" src="/images/Infographics/Travelers_cuate.png">
+<img style="width: 70%;" height="auto" width="100%" alt="a couple in yellow looking at a map puzzling where to go next" src="/images/Infographics/Travelers_cuate.png">
 </div>
 <p></p>
 <blockquote>
