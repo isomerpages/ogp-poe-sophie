@@ -25,5 +25,5 @@ sections:
       button: Let's go!
       url: /what-is-otbt/overview/
       image: /images/infopic-destination.png
-      alt: marina bay sands at night
+      alt: tourist looking at world map
 ---
