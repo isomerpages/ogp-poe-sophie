@@ -5,8 +5,6 @@ variant: tiptap
 description: why use off the beaten track
 ---
 <h3>Off The Beaten Track wants to ease any visitor into being able to make up their itineraries without too much muss and fuss.</h3>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="scientist giving the thumbs up to a time traveller setting off" src="/images/Infographics/time_travel_cuate.png">
 </div>
