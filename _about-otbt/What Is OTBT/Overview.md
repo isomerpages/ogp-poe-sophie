@@ -8,14 +8,14 @@ third_nav_title: What Is OTBT
 <h3><strong>Off The Beaten Track is a new local resource dedicated to finding new tourist-friendly spots and activities for both foreigners and locals alike.</strong></h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="man in yellow beanie hat web searching on phone for information" src="/images/Infographics/Instant_information_cuate.png">
+<img style="width: 100%;" height="auto" width="100%" alt="man in yellow beanie hat web searching on phone for information" src="/images/Infographics/Instant_information_cuate.png">
 </div>
 <h4><strong>Vision</strong></h4>
 <p>A Lion City that is more then just food and shopping, a destination with
 alternatives that can offer so much more.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="woman tried in yellow looking at travel map at a new destination" src="/images/Infographics/Trip_cuate.png">
+<img style="width: 80%;" height="auto" width="100%" alt="woman tried in yellow looking at travel map at a new destination" src="/images/Infographics/Trip_cuate.png">
 </div>
 <h4><strong>Mission</strong></h4>
 <p>Our local non-profit co-operative is in pursuit of a different kind of
