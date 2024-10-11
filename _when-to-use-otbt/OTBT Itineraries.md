@@ -22,4 +22,6 @@ food halls?</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.hawparvilla.sg/fat-event/haw-ror-villa-3/?sd=1729278000&amp;ed=1729983600" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="black hair asian woman looking with horror at dark chinese gates" src="/images/Places/halloween_haw_par_villa_banner_1170x500.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Haw Ror Villa 3</div><div class="isomer-card-description">Try trick or treating, Asian style!</div><div class="isomer-card-link">Scream your way home!</div></div></a>
 </div>
-<p></p>
+<hr>
+<p>Have more questions? Ask us at <a href="mailto: offthebeatentrack.sg" rel="noopener noreferrer nofollow" target="_blank">support@offthebeatentrack.sg</a>
+</p>
