@@ -10,7 +10,7 @@ third_nav_title: What Is OTBT
 </blockquote>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="a couple in yellow looking at destinations on a paper map" src="/images/Infographics/Paper_map_cuate.png">
+<img style="width: 80%;" height="auto" width="100%" alt="a couple in yellow looking at destinations on a paper map" src="/images/Infographics/Paper_map_cuate.png">
 </div>
 <ul data-tight="true" class="tight">
 <li>
