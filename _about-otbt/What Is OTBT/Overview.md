@@ -15,7 +15,7 @@ third_nav_title: What Is OTBT
 alternatives that can offer so much more.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="long haired woman in yellow with a globe behind her starting a journey" src="/images/Infographics/Destination_cuate.png">
+<img style="width: 50%;" height="auto" width="100%" alt="yellow themed tour guide welcoming a family of three" src="/images/Infographics/Tour_guide_cuate.png">
 </div>
 <h4><strong>Mission</strong></h4>
 <p>Our local non-profit co-operative is in pursuit of a different kind of
