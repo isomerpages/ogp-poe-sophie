@@ -16,7 +16,7 @@ sections:
         - title: Bring me to the good stuff!
           description: Itinerary of the Month
           url: /when-to-use-otbt/otbt-itineraries/
-      variant: side
+      variant: floating
   - infopic:
       title: Great (Or Little) Expectations
       subtitle: Choices, choices
