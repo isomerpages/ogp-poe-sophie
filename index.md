@@ -11,7 +11,7 @@ sections:
       subtitle: A (slightly) different way to exploring the Lion City
       background: /images/hero-banner.png
       button: Reach out to us
-      url: https://www.isomer.gov.sg/what-is-otbt/overview/
+      url: https://www.isomer.gov.sg/contact-us/
       key_highlights:
         - title: Bring me to the good stuff!
           description: Itinerary of the Month
@@ -21,9 +21,9 @@ sections:
       title: Great (Or Little) Expectations
       subtitle: Choices, choices
       id: infopic
-      description: Can't decide what else you can do in Singapore?
+      description: Get to know us abit!
       button: Let's go!
-      url: https://www.isomer.gov.sg/when-to-use-otbt/otbt-itineraries/
+      url: https://www.isomer.gov.sg/what-is-otbt/overview/
       image: /images/infopic-mbs.png
       alt: marina bay sands at night
 ---
