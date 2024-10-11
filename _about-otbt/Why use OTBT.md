@@ -4,10 +4,13 @@ permalink: /what-is-otbt/why-use-otbt/
 variant: tiptap
 description: why use off the beaten track
 ---
-<p>Off The Beaten Track shares a belief that you can try a different kind
-of travel but it can still be easy and fun. We want any visitor to be able
-to make up their own itineraries without too much muss and fuss. Here’s
-how Off The Beaten Track makes it easier:</p>
+<h3>Off The Beaten Track wants to ease any visitor into being able to make up their itineraries without too much muss and fuss.</h3>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="scientist giving the thumbs up to a time traveller setting off" src="/images/Infographics/time_travel_cuate.png">
+</div>
+<h3><strong> Here’s how Off The Beaten Track makes it easier:</strong></h3>
 <h3>1. A list of pre-approved locales and activities listed</h3>
 <ul>
 <li>
