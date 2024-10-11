@@ -10,12 +10,12 @@ sections:
       title: Off The Beaten Track In Singapore
       subtitle: A (slightly) different way to exploring the Lion City
       background: /images/hero-banner.png
-      button: Reach out to us
-      url: /contact-us/
+      button: who uses uses us?
+      url: https://www.isomer.gov.sg/when-to-use-otbt/users/
       key_highlights:
         - title: Bring me to the good stuff!
           description: Itinerary of the Month
-          url: https://www.isomer.gov.sg/when-to-use-otbt/otbt-itineraries/
+          url: /when-to-use-otbt/otbt-itineraries/
       variant: floating
   - infopic:
       title: Great (Or Little) Expectations
