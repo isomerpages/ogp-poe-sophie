@@ -10,8 +10,8 @@ sections:
       title: Off The Beaten Track In Singapore
       subtitle: A (slightly) different way to exploring the Lion City
       background: /images/hero-banner.png
-      button: Let's Go!
-      url: https://www.isomer.gov.sg/what-is-otbt/overview/
+      button: Reach out to us
+      url: /contact-us/
       key_highlights:
         - title: Bring me to the good stuff!
           description: Itinerary of the Month
