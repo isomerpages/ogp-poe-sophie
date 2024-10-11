@@ -64,7 +64,7 @@ star or local food jaunts) in Singapore, <a href="https://www.visitsingapore.com
 </li>
 </ul>
 <hr>
-<p>Have more questions? Ask us at <a href="mailto:%20support@isomer.gov.sg" rel="noopener noreferrer nofollow" target="_blank">support@isomer.gov.sg</a>
+<p>Have more questions? Ask us at <a href="mailto: offthebeatentrack.sg" rel="noopener noreferrer nofollow" target="_blank">support@offthebeatentrack.sg</a>
 </p>
 <p></p>
 <p></p>
