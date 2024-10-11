@@ -8,7 +8,7 @@ description: why use off the beaten track
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="scientist giving the thumbs up to a time traveller setting off" src="/images/Infographics/time_travel_cuate.png">
+<img style="width: 70%;" height="auto" width="100%" alt="scientist giving the thumbs up to a time traveller setting off" src="/images/Infographics/time_travel_cuate.png">
 </div>
 <h3><strong>Here’s how Off The Beaten Track makes it easier:</strong></h3>
 <h3>1. A list of pre-approved locales and activities listed</h3>
