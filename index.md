@@ -11,7 +11,7 @@ sections:
       subtitle: A (slightly) different way to exploring the Lion City
       background: /images/hero-banner.png
       button: Reach out to us
-      url: https://www.isomer.gov.sg/contact-us/
+      url: /contact-us/
       key_highlights:
         - title: Bring me to the good stuff!
           description: Itinerary of the Month
