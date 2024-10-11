@@ -16,7 +16,7 @@ sections:
         - title: Bring me to the good stuff!
           description: Itinerary of the Month
           url: https://www.isomer.gov.sg/what-is-otbt/off-the-beaten-track-itineraries/
-      variant: center
+      variant: floating
   - infopic:
       title: Great (Or Little) Expectations
       subtitle: Choices, choices
