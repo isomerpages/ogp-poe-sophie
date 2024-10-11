@@ -9,14 +9,14 @@ sections:
   - hero:
       title: Off The Beaten Track In Singapore
       subtitle: A (slightly) different way to exploring the Lion City
-      background: /images/hero-banner.png
+      background: /images/hero-banner-airport.png
       button: who uses us?
       url: /when-to-use-otbt/users/
       key_highlights:
         - title: Bring me to the good stuff!
           description: Itinerary of the Month
           url: /when-to-use-otbt/otbt-itineraries/
-      variant: floating
+      variant: side
   - infopic:
       title: Great (Or Little) Expectations
       subtitle: Choices, choices
@@ -24,6 +24,6 @@ sections:
       description: Get to know us abit!
       button: Let's go!
       url: /what-is-otbt/overview/
-      image: /images/infopic-mbs.png
+      image: /images/infopic-destination.png
       alt: marina bay sands at night
 ---
