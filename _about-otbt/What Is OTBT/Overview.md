@@ -24,6 +24,7 @@ foreigners new activities to participate in whilst also enabling them to <strong
 information they were looking for and also <strong>navigate safely</strong> around
 our island.</p>
 <hr>
-<p></p>
+<p>Have more questions? Ask us at <a href="mailto: offthebeatentrack.sg" rel="noopener noreferrer nofollow" target="_blank">support@offthebeatentrack.sg</a>
+</p>
 <h2></h2>
 <p></p>
