@@ -6,7 +6,7 @@ description: why use off the beaten track
 ---
 <h3>Off The Beaten Track wants to ease any visitor into being able to make up their itineraries without too much muss and fuss.</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="scientist giving the thumbs up to a time traveller setting off" src="/images/Infographics/time_travel_cuate.png">
+<img style="width: 80%;" height="auto" width="100%" alt="a tour guide meeting a family of three and all are dressed in yellow" src="/images/Infographics/Tour_guide_cuate.png">
 </div>
 <h3><strong>Here’s how Off The Beaten Track makes it easier:</strong></h3>
 <h3>1. A list of pre-approved locales and activities listed</h3>
