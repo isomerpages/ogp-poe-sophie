@@ -5,6 +5,7 @@ variant: tiptap
 description: off the beaten track itineraries examples
 ---
 <h3><strong>Get a taste of what an Of The Beaten Track itinerary mixed with a seasonal activity might look like!</strong></h3>
+<h4><strong>Our October Pick of the Week is Here!</strong></h4>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.newbahru.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="New Bahru orange text painted repeatedly on the side of a building" src="/images/Places/new_bahru.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">New Bahru</div><div class="isomer-card-description">Back to your primary school early in the morning!</div><div class="isomer-card-link">Check out the New New!</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://lkcnhm.nus.edu.sg/" class="isomer-card">
