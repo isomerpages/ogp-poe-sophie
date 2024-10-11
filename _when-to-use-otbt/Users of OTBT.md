@@ -30,7 +30,7 @@ Villa's Hell Museum Tour in the Seventh Month (Ghost Month) and October.</p>
 </ul>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="a woman with a yellow backpack and shoes standing at a crossroad" src="/images/Infographics/On_the_way_cuate.png">
+<img style="width: 70%;" height="auto" width="100%" alt="a woman with a yellow backpack and shoes standing at a crossroad" src="/images/Infographics/On_the_way_cuate.png">
 </div>
 <h5><strong>Off The Beaten Track is not ideal for everyone:</strong></h5>
 <ul data-tight="true" class="tight">
