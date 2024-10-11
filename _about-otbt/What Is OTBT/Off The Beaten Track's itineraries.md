@@ -9,6 +9,9 @@ third_nav_title: What Is OTBT
 <h2><strong>Off The Beaten Track is actually a 3 stage itinerary.</strong></h2>
 </blockquote>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="a couple in yellow looking at destinations on a paper map" src="/images/Infographics/Paper_map_cuate.png">
+</div>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Off The Beaten Track assumes a full day's itinerary.</strong> We
