@@ -11,11 +11,11 @@ sections:
       subtitle: A (slightly) different way to exploring the Lion City
       background: /images/hero-banner.png
       button: Reach out to us
-      url: /contact-us/
+      url: https://www.isomer.gov.sg/what-is-otbt/overview/
       key_highlights:
         - title: Bring me to the good stuff!
           description: Itinerary of the Month
-          url: https://www.isomer.gov.sg/what-is-otbt/off-the-beaten-track-itineraries/
+          url: https://www.isomer.gov.sg/contact-us
       variant: floating
   - infopic:
       title: Great (Or Little) Expectations
