@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Off The Beaten Track In Singapore
       subtitle: A (slightly) different way to exploring the Lion City
-      background: /images/hero-banner-airport.png
+      background: /images/airport_tower_pana.png
       button: who uses us?
       url: /when-to-use-otbt/users/
       key_highlights:
