@@ -10,10 +10,10 @@ third_nav_title: What Is OTBT
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="man in yellow beanie hat web searching on phone for information" src="/images/Infographics/Instant_information_cuate.png">
 </div>
-<h4>Vision</h4>
+<h4><strong>Vision</strong></h4>
 <p>A Lion City that is more then just food and shopping, a destination with
 alternatives that can offer so much more.</p>
-<h4>Mission</h4>
+<h4><strong>Mission</strong></h4>
 <p>Our local non-profit co-operative is in pursuit of a different kind of
 tourism, we hope to <strong>effectively</strong> offer both citizens and
 foreigners new activities to participate in whilst also enabling them to <strong>easily access</strong> the
