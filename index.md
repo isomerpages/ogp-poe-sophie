@@ -21,7 +21,8 @@ sections:
       title: Great (Or Little) Expectations
       subtitle: Choices, choices
       id: infopic
-      description: Get to know us abit!
+      description: Get to know us, what we can do for you and how you can use us to
+        make your time out a little bit (or a great bit) better!
       button: Let's go!
       url: /what-is-otbt/overview/
       image: /images/infopic-destination.png
