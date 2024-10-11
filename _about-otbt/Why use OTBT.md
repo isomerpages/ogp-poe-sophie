@@ -30,3 +30,6 @@ line with <a href="https://designsystem.tech.gov.sg/" rel="noopener noreferrer n
 </p>
 <p>Isomer’s components follow standards set by&nbsp;SGDS, which ensures that
 our website automatically keeps good user interface and experience practices.</p>
+<hr>
+<p>Have more questions? Ask us at <a href="mailto: offthebeatentrack.sg" rel="noopener noreferrer nofollow" target="_blank">support@offthebeatentrack.sg</a>
+</p>
