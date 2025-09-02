@@ -1,4 +1,5 @@
 collections:
   level-1:
     output: true
-    order: []
+    order:
+      - Level 2/.keep
